@@ -12,10 +12,5 @@ namespace DesafioPOO.Models
         {
             Console.WriteLine($"Instalando o aplicativo \"{nomeApp}\" no Iphone");
         }
-
-        public void atencao()
-        {
-            Console.WriteLine("Atenção");
-        }
     }
 }
